@@ -5,7 +5,8 @@ const result = await Bun.build({
   target: 'node',
   external: ['zod'],
   outdir: './dist',
-  plugins: [dts()]
+  plugins: [dts()],
+  sourcemap: true
 });
 
 export {};
