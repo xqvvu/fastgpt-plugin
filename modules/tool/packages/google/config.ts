@@ -12,7 +12,6 @@ export default defineTool({
     'zh-CN': '在 Google 中搜索',
     en: 'Search in Google'
   },
-  icon: 'core/workflow/template/google',
   courseUrl:
     'https://fael3z0zfze.feishu.cn/wiki/Vqk1w4ltNiuLifkHTuoc0hSrnVg?fromScene=spaceOverview',
   versionList: [

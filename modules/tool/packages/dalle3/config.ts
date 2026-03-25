@@ -16,7 +16,6 @@ export default defineTool({
     'zh-CN': '调用 Dalle3 接口绘图',
     en: 'Call Dalle3 Interface to Draw'
   },
-  icon: 'common/openai',
   courseUrl: 'https://openai.com',
   versionList: [
     {

@@ -8,7 +8,6 @@ export default defineToolSet({
   },
   courseUrl: 'https://platform.openai.com/docs/pricing',
   tags: [ToolTagEnum.enum.multimodal],
-  icon: 'common/openai',
   description: {
     'zh-CN': '这是一个gpt-image 绘图工具集',
     en: 'This is a gpt-image image generation tool set'

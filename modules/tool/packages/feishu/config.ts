@@ -16,7 +16,6 @@ export default defineTool({
     'zh-CN': '向飞书机器人发起 webhook 请求。',
     en: 'Send webhook request to Feishu bot.'
   },
-  icon: 'core/app/templates/plugin-feishu',
   versionList: [
     {
       value: '0.1.1',

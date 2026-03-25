@@ -13,7 +13,6 @@ export default defineTool({
     en: 'Convert audio files to text using OpenAI Whisper model, supporting multiple audio formats and multilingual recognition'
   },
   courseUrl: 'https://platform.openai.com/docs/pricing',
-  icon: 'common/openai',
   toolDescription:
     'Convert audio files to text using OpenAI Whisper speech recognition API. Supports multiple audio formats and languages.',
   secretInputConfig: [

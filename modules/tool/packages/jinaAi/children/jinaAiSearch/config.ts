@@ -16,7 +16,6 @@ export default defineTool({
     'zh-CN': '基于 Jina AI 搜索引擎的智能网络搜索工具，支持多语言和地区定制',
     en: 'Intelligent web search powered by Jina AI search engine with multi-language and region support'
   },
-  icon: 'core/workflow/template/jinaAi',
   courseUrl: 'https://jina.ai',
   author: 'FastGPT',
   versionList: [

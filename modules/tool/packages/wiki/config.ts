@@ -16,7 +16,6 @@ export default defineTool({
     'zh-CN': '在Wiki中查询释义。',
     en: 'Search meanings in Wiki.'
   },
-  icon: 'core/workflow/template/wiki',
   versionList: [
     {
       value: '0.1.1',
